@@ -1,0 +1,27 @@
+.main {
+  display: flex;
+}
+.main > div {
+  width: 50%;
+}
+.right-side {
+  background-color: var(--background-right);
+}
+.left-side {
+  background-color: var(--background-left);
+}
+
+@media (max-width: 650px) {
+  .main {
+    flex-direction: column;
+  }
+  .main > div {
+    width: 100%;
+  }
+  .left-side {
+    z-index: 999;
+    height: 280px;
+    position: sticky;
+    top: 0px;
+  }
+}

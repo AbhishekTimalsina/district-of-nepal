@@ -1,0 +1,26 @@
+.nepalmap-container-77 {
+  width: 100%;
+  text-align: center;
+  width: 100%;
+  position: sticky;
+  top: 0px;
+  overflow: hidden;
+}
+.nepalmap-container-77 svg {
+  width: 100%;
+  transform: translateY(-12%);
+  overflow: visible;
+}
+
+@media (max-width: 650px) {
+  .map-container {
+    height: 100%;
+  }
+  .nepalmap-container-77 {
+    height: 100%;
+  }
+  .nepalmap-container-77 svg {
+    height: 100%;
+    transform: translateY(-10%);
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "province": "Bagmati Province",
+
+  "data": [
+    {
+      "districtName": "kathmandu",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "Kathmandu is the capitl city of Nepal. Newar communities are the indigenous inhabitants. This district is home to 7 UNESCO World heritage site",
+      "headquarter": "Kathmandu",
+      "position": {
+        "lat": "27.7172",
+        "long": "85.3240",
+        "area": "49.45"
+      }
+    },
+    {
+      "districtName": "sindhuli",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "Some people believed that in past here used to be a great saint who was popular by the name of Siddha Baba ( etymologically The enlighten one). So this place got its name as Siddhasthali (Place where Siddha lives) which deviated and began to be pronounced as Sindhuli.",
+      "headquarter": "Kamalamai",
+      "position": {
+        "lat": "27.2569",
+        "long": "85.9713",
+        "area": "2491"
+      }
+    },
+    {
+      "districtName": "ramechhap",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "This district has the lowest population growth rate in Nepal and has the highest population of the endangered native group, the Kusunda.",
+      "headquarter": "Manthali",
+      "position": {
+        "lat": "27.3193",
+        "long": "86.1039",
+        "area": "1546"
+      }
+    },
+    {
+      "districtName": "dolakha",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "Some people believe that in Tibetan language Do means Stone , La means Temple and khaa means house.There are a number of house and temple of stone in this place so this place is known as Dolakha.",
+      "headquarter": "Bhimeshwar",
+      "position": {
+        "lat": "27.7784",
+        "long": "86.1752",
+        "area": "2191"
+      }
+    },
+    {
+      "districtName": "bhaktapur",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "This is the smallest district of Nepal",
+      "headquarter": "Bhaktapur",
+      "position": {
+        "lat": "27.6710",
+        "long": "85.4298",
+        "area": "119"
+      }
+    },
+    {
+      "districtName": "dhading",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "It is the only district in Nepal that ranges from the mountain Ganesh Himal to the Churevawar Pradesh of Terai.",
+      "headquarter": "Nilkantha",
+      "position": {
+        "lat": "27.9711",
+        "long": "85.8985",
+        "area": "1926"
+      }
+    },
+    {
+      "districtName": "kavrepalanchok",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "N/A",
+      "headquarter": "Dhulikhel",
+      "position": {
+        "lat": "27.5285",
+        "long": "85.6435",
+        "area": "1396"
+      }
+    },
+    {
+      "districtName": "lalitpur",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "The city is believed to have been founded by King Varadeva in 299 CE.",
+      "headquarter": "Lalitpur",
+      "position": {
+        "lat": "27.6588",
+        "long": "85.3247",
+        "area": "385"
+      }
+    },
+    {
+      "districtName": "nuwakot",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "Prithivi Narayan Shah (known as founder of modern Nepal), attacked nuwakot after being crowned as the king of Nepal. After two unsuccessful attempt he finally conquered nuwakot in 1744 CE.",
+      "headquarter": "Bidur",
+      "position": {
+        "lat": "27.8895",
+        "long": "85.2308",
+        "area": "1121"
+      }
+    },
+    {
+      "districtName": "rasuwa",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "The name, formerly Rasowa, is believed to be derived from two Tibetan words ra (lamb) and sowa (grazing), as it was known for its lamb and grazing lands.",
+      "headquarter": "Dhunche",
+      "position": {
+        "lat": "27.1755",
+        "long": "85.3963",
+        "area": "1544"
+      }
+    },
+    {
+      "districtName": "sindhupalchok",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "This district has most number of suspension bridge in Nepal with over 200 suspension bridges.",
+      "headquarter": "Chautara",
+      "position": {
+        "lat": "27.9512",
+        "long": "85.6846",
+        "area": "2542"
+      }
+    },
+    {
+      "districtName": "makwanpur",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "N/A",
+      "headquarter": "Hetauda",
+      "position": {
+        "lat": "27.5546",
+        "long": "85.0233",
+        "area": "2246"
+      }
+    },
+    {
+      "districtName": "chitwan",
+      "provinceId": "3",
+      "province": "Bagmati Province",
+      "funFact": "This district is home to one of the last populations of single-horned Asiatic rhinoceros and is also one of the last refuges of the Bengal Tiger.",
+      "headquarter": "Bharatpur",
+      "position": {
+        "lat": "27.5291",
+        "long": "84.3542",
+        "area": "2238.39"
+      }
+    }
+  ]
+}

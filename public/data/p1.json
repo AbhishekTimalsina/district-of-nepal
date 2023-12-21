@@ -1,0 +1,173 @@
+{
+  "province": "Koshi Province",
+  "data": [
+    {
+      "districtName": "bhojpur",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "headquarter": "Bhojpur",
+      "funFact": "The district is named after the legendary king Bhoja, who ruled over the region in ancient times.",
+      "position": {
+        "lat": "27.1780",
+        "long": "87.0524",
+        "area": "1507"
+      }
+    },
+    {
+      "districtName": "dhankuta",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "headquarter": "Dhankuta",
+      "funFact": "On November 13, 1979, sixteen people were killed by the government of Nepal at Chhintang VDC ward no-1 for demanding democracy. This is known as Chittang Massacre.(Not a fun one)  ",
+      "position": {
+        "lat": "26.9835",
+        "long": "87.3215",
+        "area": "892"
+      }
+    },
+    {
+      "districtName": "ilam",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "headquarter": "Illam",
+      "funFact": "Illam is famous for it's tea. 6,282,010kg tea was produced in illam in fiscal year 21/22",
+      "position": {
+        "lat": "26.9225",
+        "long": "87.8942",
+        "area": "1703"
+      }
+    },
+    {
+      "districtName": "jhapa",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "headquarter": "Bhadrapur",
+      "funFact": "N/A",
+      "position": {
+        "lat": "26.5455",
+        "long": "87.8942",
+        "area": "1606"
+      }
+    },
+    {
+      "districtName": "khotang",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "funFact": "Halesi Mahadev, a sacred temple of hindus is located in this district. The temple is situated inside a cave",
+      "headquarter": "Diktel",
+      "position": {
+        "lat": "27.1838",
+        "long": "86.7819",
+        "area": "1591"
+      }
+    },
+    {
+      "districtName": "morang",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "funFact": " It is the industrial capital of Nepal. Morang has the highest numbers of industries and factories, multinational brands.",
+      "headquarter": "Biratnagar",
+      "position": {
+        "lat": "26.6799",
+        "long": "87.4604",
+        "area": "1855"
+      }
+    },
+    {
+      "districtName": "okhaldhunga",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "funFact": "Okhaldhunga is the birthplace of the Nepalese poet, Siddhicharan Shrestha, Okhaldhunga is also known as the District of Martyrs.",
+      "headquarter": "Siddhicharan",
+      "position": {
+        "lat": "27.3619",
+        "long": "86.3782",
+        "area": "1074"
+      }
+    },
+    {
+      "districtName": "panchthar",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "funFact": "Panchthar was a part of the ancient Limbuwan kingdom, which was ruled by the Limbu community.The Limbu language and script were used as the official language in Panchthar during the Limbuwan kingdom era.",
+      "headquarter": "Phidim",
+      "position": {
+        "lat": "27.1096",
+        "long": "87.8157",
+        "area": "1241"
+      }
+    },
+    {
+      "districtName": "sankhuwasabha",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "funFact": "This district has the deepest valley of the world, Arun Valley and is a land famous for cardamom farming.",
+      "headquarter": "Khandbari",
+      "position": {
+        "lat": "27.6174",
+        "long": "87.3016",
+        "area": "3480"
+      }
+    },
+    {
+      "districtName": "solukhumbu",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "funFact": "The highest mountain in the world Mt.Everest(Sagarmatha) is situated here.",
+      "headquarter": "Salleri",
+      "position": {
+        "lat": "27.6992",
+        "long": "86.7416",
+        "area": "3312"
+      }
+    },
+    {
+      "districtName": "sunsari",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "funFact": "Koshi Tappu Wildlife Reserve , a famous birdwatching destination is located here.",
+      "headquarter": "Inaruwa",
+      "position": {
+        "lat": "26.6276",
+        "long": "87.1822",
+        "area": "1257"
+      }
+    },
+    {
+      "districtName": "taplejung",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "funFact": "Taplejung is home to the Kanchenjunga Conservation Area, a protected area known for its diverse flora and fauna, including red pandas, snow leopards, musk deer, and various bird species",
+      "headquarter": "Taplejung",
+      "position": {
+        "lat": "27.6257",
+        "long": "87.7763",
+        "area": "3646"
+      }
+    },
+    {
+      "districtName": "terhathum",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "funFact": " In Nepali Tehra means Thirteen and Thum means Peak so the name Tehrathum means the place with thirteen peaks. ",
+      "headquarter": "Myanglung",
+      "position": {
+        "lat": "27.1998",
+        "long": "87.5791",
+        "area": "679"
+      }
+    },
+    {
+      "districtName": "udayapur",
+      "provinceId": 1,
+      "province": "Koshi Province",
+      "funFact": "Nepal's largest cement factory, Udayapur Cement Factory is located here. It was established in 1987",
+      "headquarter": "Gaighat",
+      "position": {
+        "lat": "26.8518",
+        "long": "86.6611",
+        "area": "2063"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "province": "Karnali Province",
+
+  "data": [
+    {
+      "districtName": "rukum-west",
+      "provinceId": 6,
+      "province": "Karnali Province",
+      "funFact": "N/A",
+      "headquarter": "Musikot",
+      "position": {
+        "lat": "28.6947",
+        "long": "82.4319",
+        "area": "1213.49"
+      }
+    },
+    {
+      "districtName": "salyan",
+      "provinceId": 6,
+      "province": "Karnali Province",
+      "funFact": "Salyan derives from the Nepali word sallo which means pine tree or conifer.",
+      "headquarter": "Salyan",
+      "position": {
+        "lat": "28.4014",
+        "long": "82.1714",
+        "area": "1462"
+      }
+    },
+    {
+      "districtName": "dolpa",
+      "provinceId": 6,
+      "province": "Karnali Province",
+      "funFact": "This is the biggest district of Nepal.",
+      "headquarter": "Dunai",
+      "position": {
+        "lat": "29.0539",
+        "long": "83.0791",
+        "area": "7889"
+      }
+    },
+    {
+      "districtName": "humla",
+      "provinceId": 6,
+      "province": "Karnali Province",
+      "funFact": "Namkha which is situated in humla is the largest rural municipality of Nepal.",
+      "headquarter": "Simikot",
+      "position": {
+        "lat": "30.0052",
+        "long": "81.9535",
+        "area": "5655"
+      }
+    },
+    {
+      "districtName": "jumla",
+      "provinceId": 6,
+      "province": "Karnali Province",
+      "funFact": "Sinja valley which is located in this district, is considered to be the birth place of Nepali Language.",
+      "headquarter": "Chandannath",
+      "position": {
+        "lat": "29.2522",
+        "long": "82.1659",
+        "area": "2531"
+      }
+    },
+    {
+      "districtName": "kalikot",
+      "provinceId": 6,
+      "province": "Karnali Province",
+      "funFact": "N/A",
+      "headquarter": "Manma",
+      "position": {
+        "lat": "29.2089",
+        "long": "81.7349",
+        "area": "1741"
+      }
+    },
+    {
+      "districtName": "mugu",
+      "provinceId": 6,
+      "province": "Karnali Province",
+      "funFact": "The largest lake of Nepal, Rara Lake is located in this district.",
+      "headquarter": "Gamgadhi",
+      "position": {
+        "lat": "29.8086",
+        "long": "82.5186",
+        "area": "3535"
+      }
+    },
+    {
+      "districtName": "surkhet",
+      "provinceId": 6,
+      "province": "Karnali Province",
+      "funFact": "N/A",
+      "headquarter": "Birendranagar",
+      "position": {
+        "lat": "28.5175",
+        "long": "81.7787",
+        "area": "2451"
+      }
+    },
+    {
+      "districtName": "dailekh",
+      "provinceId": 6,
+      "province": "Karnali Province",
+      "funFact": "N/A",
+      "headquarter": "Narayan",
+      "position": {
+        "lat": "28.9262",
+        "long": "81.6473",
+        "area": "1502"
+      }
+    },
+    {
+      "districtName": "jajarkot",
+      "provinceId": 6,
+      "province": "Karnali Province",
+      "funFact": "N/A",
+      "headquarter": "Khalanga",
+      "position": {
+        "lat": "28.7396",
+        "long": "82.2040",
+        "area": "2230"
+      }
+    }
+  ]
+}

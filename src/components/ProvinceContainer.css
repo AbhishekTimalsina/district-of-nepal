@@ -1,0 +1,38 @@
+.province-wrapper {
+  min-height: 100vh;
+  border-bottom: 1px solid var(--text-color);
+}
+.province-wrapper > * {
+  color: var(--text-color);
+}
+.province-heading {
+  text-align: center;
+  font-size: 3.3rem;
+  padding-top: 8px;
+}
+.districts-containers {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 26px;
+  padding: 20px;
+}
+
+@media (max-width: 850px) {
+  .districts-containers {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 650px) {
+  .province-heading {
+    font-size: 3rem;
+  }
+}
+@media (max-width: 650px) {
+  .districts-containers {
+    grid-template-columns: 1fr;
+  }
+  .province-wrapper {
+    min-height: 50vh;
+  }
+}

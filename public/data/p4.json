@@ -1,0 +1,137 @@
+{
+  "province": "Gandaki Province",
+  "data": [
+    {
+      "districtName": "baglung",
+      "provindeId": 4,
+      "province": "Gandaki Province",
+      "funFact": "Gandaki Golden Bridge a suspended footbridge with a span of 567m is the longest suspension bridge of Nepal. ",
+      "headquarter": "Baglung",
+      "position": {
+        "lat": "28.2774",
+        "long": "83.5816",
+        "area": "1784"
+      }
+    },
+    {
+      "districtName": "gorkha",
+      "provindeId": 4,
+      "province": "Gandaki Province",
+      "funFact": "Kushma is home to the world's second highest bungee(Kushma bungee jump) at the height of 228 meter.",
+      "headquarter": "Gorkha",
+      "position": {
+        "lat": "28.2964",
+        "long": "84.8568",
+        "area": "3610"
+      }
+    },
+    {
+      "districtName": "kaski",
+      "provindeId": 4,
+      "province": "Gandaki Province",
+      "funFact": "This district has 11 mountains with height greater than 7000 meter.",
+      "headquarter": "Pokhara",
+      "position": {
+        "lat": "28.2096",
+        "long": "83.9856",
+        "area": "2017"
+      }
+    },
+    {
+      "districtName": "lamjung",
+      "provindeId": 4,
+      "province": "Gandaki Province",
+      "funFact": "The district's name Lamjung derives from two separate words “Lama and Jong” meaning the palace of the monks.",
+      "headquarter": "Besisahar",
+      "position": {
+        "lat": "28.2765",
+        "long": "84.3542",
+        "area": "1692"
+      }
+    },
+    {
+      "districtName": "manang",
+      "provindeId": 4,
+      "province": "Gandaki Province",
+      "funFact": "Manang's Tilicho lake situated 4,919m above sea level is the highest lake in the world.",
+      "headquarter": "Chame",
+      "position": {
+        "lat": "28.6667",
+        "long": "84.0167",
+        "area": "2246"
+      }
+    },
+    {
+      "districtName": "mustang",
+      "provindeId": 4,
+      "province": "Gandaki Province",
+      "funFact": "Mustang was prohibited for foreign tourists up until 1992 continues to exhibit the embodiment of hundreds of years of Buddhism's cultural identity.",
+      "headquarter": "Jomsom",
+      "position": {
+        "lat": "28.9985",
+        "long": "83.8473",
+        "area": "3573"
+      }
+    },
+    {
+      "districtName": "myagdi",
+      "provindeId": 4,
+      "province": "Gandaki Province",
+      "funFact": "The district derives its name from the Myagdi river around Beni whose source comes from Mt. Dhaulagiri,",
+      "headquarter": "Beni",
+      "position": {
+        "lat": "28.6029",
+        "long": "83.3362",
+        "area": "2297"
+      }
+    },
+    {
+      "districtName": "nawalpur",
+      "provindeId": 4,
+      "province": "Gandaki Province",
+      "funFact": "This district has the higest literacy rate in Gandaki Province.",
+      "headquarter": "Kawasoti",
+      "position": {
+        "lat": "27.8149",
+        "long": "85.6281",
+        "area": "1043.1"
+      }
+    },
+    {
+      "districtName": "parbat",
+      "provindeId": 4,
+      "province": "Gandaki Province",
+      "funFact": "N/A",
+      "headquarter": "Kusma",
+      "position": {
+        "lat": "28.2246",
+        "long": "83.6987",
+        "area": "494"
+      }
+    },
+    {
+      "districtName": "syangja",
+      "provindeId": 4,
+      "province": "Gandaki Province",
+      "funFact": "There is a popular saying that when you go to Syangja and hit randomly a house with a stone that house surely belongs to Section-Officer.",
+      "headquarter": "Putalibazar",
+      "position": {
+        "lat": "28.0197",
+        "long": "83.8049",
+        "area": "1164"
+      }
+    },
+    {
+      "districtName": "tanahun",
+      "provindeId": 4,
+      "province": "Gandaki Province",
+      "funFact": "This district is the birth place of a renowned nepali poet Bhanu Bhakta Acharya and Sage Vedvyas.",
+      "headquarter": "Damauli",
+      "position": {
+        "lat": "27.9447",
+        "long": "84.2279",
+        "area": "1546"
+      }
+    }
+  ]
+}

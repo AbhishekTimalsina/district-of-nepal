@@ -1,0 +1,101 @@
+{
+  "province": "Madhesh Province",
+  "data": [
+    {
+      "districtName": "saptari",
+      "provinceId": 2,
+      "province": "Madhesh Province",
+      "funFact": "N/A",
+      "headquarter": "Rajbiraj",
+      "position": {
+        "lat": "26.6191",
+        "long": "86.7819",
+        "area": "1363"
+      }
+    },
+    {
+      "districtName": "siraha",
+      "provinceId": 2,
+      "province": "Madhesh Province",
+      "funFact": "N/A",
+      "headquarter": "Siraha",
+      "position": {
+        "lat": "26.6397",
+        "long": "86.1853",
+        "area": "1188"
+      }
+    },
+    {
+      "districtName": "dhanusha",
+      "provinceId": 2,
+      "province": "Madhesh Province",
+      "funFact": "Janakpur temple located in this district is one of the most popular pilgrimage destinations in Nepal for the Hindus as it is the land of birth of Sita, wife of Lord Ram.",
+      "headquarter": "Janakpur",
+      "position": {
+        "lat": "26.8350",
+        "long": "86.0122",
+        "area": "1180"
+      }
+    },
+    {
+      "districtName": "mahottari",
+      "provinceId": 2,
+      "province": "Madhesh Province",
+      "funFact": "N/A",
+      "headquarter": "Jaleshwar",
+      "position": {
+        "lat": "26.8762",
+        "long": "85.8077",
+        "area": "1002"
+      }
+    },
+    {
+      "districtName": "sarlahi",
+      "provinceId": 2,
+      "province": "Madhesh Province",
+      "funFact": " The locals believe the district got its name from the Sarlahi Devi Temple which is located in Hemour village. A popular belief is that if someone goes to the temple at night with light then that person will die",
+      "headquarter": "Malangwa",
+      "position": {
+        "lat": "26.9627",
+        "long": "85.5612",
+        "area": "1259"
+      }
+    },
+    {
+      "districtName": "bara",
+      "provinceId": 2,
+      "province": "Madhesh Province",
+      "funFact": "N/A",
+      "headquarter": "Kalaiya",
+      "position": {
+        "lat": "27.1341",
+        "long": "85.0649",
+        "area": "1190"
+      }
+    },
+    {
+      "districtName": "parsa",
+      "provinceId": 2,
+      "province": "Madhesh Province",
+      "funFact": "Endangered species like Asian elephant, Royal Bengal tiger, Sloth bear, and Leopard are found in Parsa National Park, which is located in this district.",
+      "headquarter": "Birganj",
+      "position": {
+        "lat": "27.2190",
+        "long": "84.8151",
+        "area": "1353"
+      }
+    },
+    {
+      "districtName": "rautahat",
+      "provinceId": 2,
+      "province": "Madhesh Province",
+      "funFact": "This district has the least literacy rate among the 77 disctricts.",
+      "headquarter": "Gaur",
+      "position": {
+        "lat": "26.9547",
+        "long": "85.3136",
+        "area": "1126"
+      }
+    }
+  ]
+}

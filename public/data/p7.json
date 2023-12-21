@@ -1,0 +1,114 @@
+{
+  "province": "Sudurpashchim Province",
+
+  "data": [
+    {
+      "districtName": "kailali",
+      "provinceId": 7,
+      "province": "Sudurpashchim Province",
+      "funFact": "This district has the most forested land in Nepal.",
+      "headquarter": "Dhangadhi",
+      "position": {
+        "lat": "28.8314",
+        "long": "80.8987",
+        "area": "3235"
+      }
+    },
+    {
+      "districtName": "achham",
+      "provinceId": 7,
+      "province": "Sudurpashchim Province",
+      "funFact": "it is believed to have been named after the phrase 'Accha Aam' which means 'good mangoes' in Hindi",
+      "headquarter": "Mangalsen",
+      "position": {
+        "lat": "29.0396",
+        "long": "81.2519",
+        "area": "1680"
+      }
+    },
+    {
+      "districtName": "doti",
+      "provinceId": 7,
+      "province": "Sudurpashchim Province",
+      "funFact": "Its name is thought to be derived from the term 'Dovati' which means 'land between two rivers' referring to its location between the Seti and Mahakali rivers.",
+      "headquarter": "Dipayal Silgadhi",
+      "position": {
+        "lat": "29.2006",
+        "long": "80.8987",
+        "area": "2025"
+      }
+    },
+    {
+      "districtName": "bajhang",
+      "provinceId": 7,
+      "province": "Sudurpashchim Province",
+      "funFact": "N/A",
+      "headquarter": "Jayaprithvi",
+      "position": {
+        "lat": "29.7767",
+        "long": "81.2519",
+        "area": "3422"
+      }
+    },
+    {
+      "districtName": "bajura",
+      "provinceId": 7,
+      "province": "Sudurpashchim Province",
+      "funFact": "N/A",
+      "headquarter": "Martadi",
+      "position": {
+        "lat": "29.4201",
+        "long": "81.4279",
+        "area": "2188"
+      }
+    },
+    {
+      "districtName": "kanchanpur",
+      "provinceId": 7,
+      "province": "Sudurpashchim Province",
+      "funFact": "N/A",
+      "headquarter": "Bhimdatta",
+      "position": {
+        "lat": "28.8372",
+        "long": "80.3213",
+        "area": "1610"
+      }
+    },
+    {
+      "districtName": "dadeldhura",
+      "provinceId": 7,
+      "province": "Sudurpashchim Province",
+      "funFact": "N/A",
+      "headquarter": "Amargadhi",
+      "position": {
+        "lat": "29.2188",
+        "long": "80.4994",
+        "area": "1538"
+      }
+    },
+    {
+      "districtName": "baitadi",
+      "provinceId": 7,
+      "province": "Sudurpashchim Province",
+      "funFact": "N/A",
+      "headquarter": "Dasharathchand",
+      "position": {
+        "lat": "29.5186",
+        "long": "80.4688",
+        "area": "1519"
+      }
+    },
+    {
+      "districtName": "darchula",
+      "provinceId": 7,
+      "province": "Sudurpashchim Province",
+      "funFact": "The border of this district touch both India and China making it one of the only two district.",
+      "headquarter": "Darchula",
+      "position": {
+        "lat": "29.9363",
+        "long": "80.8987",
+        "area": "2322"
+      }
+    }
+  ]
+}

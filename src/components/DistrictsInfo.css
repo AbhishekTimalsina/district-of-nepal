@@ -1,0 +1,46 @@
+.district-accordion {
+  user-select: none;
+}
+
+.district-accordion .district-name {
+  position: relative;
+  cursor: pointer;
+  flex-basis: 20%;
+  font-size: 1.8rem;
+  font-weight: 500;
+  border-bottom: 1px solid var(--text-color);
+}
+
+.district-accordion .district-name::first-letter {
+  text-transform: capitalize;
+}
+
+.district-accordion.close .district-name::after {
+  content: ">";
+  position: absolute;
+  right: 8px;
+  font-weight: bold;
+  transform: rotate(90deg);
+}
+.district-accordion.open .district-name::after {
+  content: ">";
+  position: absolute;
+  right: 8px;
+  font-weight: bold;
+  transform: rotate(270deg);
+}
+
+.district-accordion.close .distrcit-description {
+  display: none;
+}
+.district-accordion.open .distrcit-description {
+  display: block;
+}
+.distrcit-description ul {
+  padding-top: 5px;
+  list-style-position: inside;
+}
+
+.distrcit-description li {
+  font-size: 1.6rem;
+}

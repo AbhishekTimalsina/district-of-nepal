@@ -1,0 +1,137 @@
+{
+  "province": "Lumbini",
+  "data": [
+    {
+      "districtName": "kapilvastu",
+      "provinceId": 5,
+      "province": "Lumbini",
+      "funFact": " Kapilvastu has the highest number of archaeological sites(136) in the country. This district is also the birth place of Siddhartha Gatuam",
+      "headquarter": "Taulihawa",
+      "position": {
+        "lat": "27.5518",
+        "long": "83.0469",
+        "area": "1738"
+      }
+    },
+    {
+      "districtName": "rupandehi",
+      "provinceId": 5,
+      "province": "Lumbini",
+      "funFact": "Rupandehi is named after Rupandevi temple which is situated in garden of Lumbini, where, the queen of King Suddhodana visited and give birth to Siddhartha Gautama Buddha.",
+      "headquarter": "Siddharthanagar",
+      "position": {
+        "lat": "27.5330",
+        "long": "83.3789",
+        "area": "1360"
+      }
+    },
+    {
+      "districtName": "arghakhanchi",
+      "provinceId": 5,
+      "province": "Lumbini",
+      "funFact": "N/A",
+      "headquarter": "Sandhikharka",
+      "position": {
+        "lat": "27.8940",
+        "long": "83.1220",
+        "area": "1193"
+      }
+    },
+    {
+      "districtName": "gulmi",
+      "provinceId": 5,
+      "province": "Lumbini",
+      "funFact": "It was a significant military force during the Lichchhabi and Malla eras, and there was an army unit stationed here. The district's name comes from the Sanskrit word 'gulma', which means 'military regiment' or 'containment'",
+      "headquarter": "Tamghas",
+      "position": {
+        "lat": "28.0889",
+        "long": "83.2934",
+        "area": "1149"
+      }
+    },
+    {
+      "districtName": "palpa",
+      "provinceId": 5,
+      "province": "Lumbini",
+      "funFact": "Palpa is famous for Dhaka Topi, a kind of traditional Nepali hat.",
+      "headquarter": "Tansen",
+      "position": {
+        "lat": "27.8253",
+        "long": "83.6348",
+        "area": "1373"
+      }
+    },
+    {
+      "districtName": "dang",
+      "provinceId": 5,
+      "province": "Lumbini",
+      "funFact": "This district is home to Nepal's second oldest university, Nepal Sanskrit University which is the only Sanskrit university of the country.",
+      "headquarter": "Ghorahi",
+      "position": {
+        "lat": "28.0000",
+        "long": "82.4753",
+        "area": "2955"
+      }
+    },
+    {
+      "districtName": "pyuthan",
+      "provinceId": 5,
+      "province": "Lumbini",
+      "funFact": "N/A",
+      "headquarter": "Pyuthan",
+      "position": {
+        "lat": "28.1017",
+        "long": "82.8533",
+        "area": "1309"
+      }
+    },
+    {
+      "districtName": "rolpa",
+      "provinceId": 5,
+      "province": "Lumbini",
+      "funFact": "Rolpa was the epicenter of decade long Maoist-insurgency.",
+      "headquarter": "Liwang",
+      "position": {
+        "lat": "28.3816",
+        "long": "82.6483",
+        "area": "1879"
+      }
+    },
+    {
+      "districtName": "rukum-east",
+      "provinceId": 5,
+      "province": "Lumbini",
+      "funFact": "N/A",
+      "headquarter": "Rukumkot",
+      "position": {
+        "lat": "28.6947",
+        "long": "82.4319",
+        "area": "1161.13"
+      }
+    },
+    {
+      "districtName": "banke",
+      "provinceId": 5,
+      "province": "Lumbini",
+      "funFact": "Banke is home to the newest national park of Nepal, Banke National Park(established on July 12,2010).",
+      "headquarter": "Nepalganj",
+      "position": {
+        "lat": "28.1022",
+        "long": "81.8224",
+        "area": "2337"
+      }
+    },
+    {
+      "districtName": "bardiya",
+      "provinceId": 5,
+      "province": "Lumbini",
+      "funFact": "N/A",
+      "headquarter": "Gulariya",
+      "position": {
+        "lat": "28.3102",
+        "long": "81.4279",
+        "area": "2025"
+      }
+    }
+  ]
+}

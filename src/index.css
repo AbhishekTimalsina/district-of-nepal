@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+:root {
+  font-size: 62.5%;
+  --background-left: #ffe4c4;
+  --background-right: #3f2d16;
+  --text-color: #fff;
+}
+
+@media (max-width: 850px) {
+  :root {
+    font-size: 55%;
+  }
+}
