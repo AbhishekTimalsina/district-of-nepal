@@ -39,7 +39,7 @@ function About() {
         <h4>A fun fact about each district of Nepal.</h4>
         <p>
           Created by
-          <a href="https://github.com/AbhishekTimalsina">
+          <a href="https://github.com/AbhishekTimalsina/district-of-nepal">
             <b>Abhishek Timalsina</b>
           </a>
         </p>

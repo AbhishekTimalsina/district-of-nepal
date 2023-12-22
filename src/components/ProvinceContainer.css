@@ -2,6 +2,9 @@
   min-height: 100vh;
   border-bottom: 1px solid var(--text-color);
 }
+.province-wrapper.active {
+  background-color: #573d1c;
+}
 .province-wrapper > * {
   color: var(--text-color);
 }

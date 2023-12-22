@@ -20,7 +20,8 @@
     height: 100%;
   }
   .nepalmap-container-77 svg {
-    height: 100%;
     transform: translateY(-10%);
+    height: 100%;
+    width: 70%;
   }
 }
