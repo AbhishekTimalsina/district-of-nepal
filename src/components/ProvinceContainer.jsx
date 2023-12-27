@@ -1,22 +1,17 @@
 import React, { useEffect, useRef, useState } from "react";
 import useObserve from "react-intersectionobserver-wrapper";
 import { useProvinceActions } from "../store/Store";
+import useDeviceWidth from "../hooks/useDeviceWidth";
 import DistrictsInfo from "./DistrictsInfo";
 import "./ProvinceContainer.css";
 
 function ProvinceContainer({ id }) {
   const [provinceData, setProvinceData] = useState([]);
-  const [innerWidth, setInnerWidth] = useState(window.innerWidth);
   const [isActive, setIsActive] = useState(false);
+  const innerWidth = useDeviceWidth();
   const ref = useRef(null);
   let { updateProvinceId } = useProvinceActions();
   let provinceIdObserver = useObserve(ref);
-
-  useEffect(() => {
-    window.addEventListener("resize", function () {
-      setInnerWidth(window.innerWidth);
-    });
-  }, []);
 
   let thresHoldValue = 0.5;
   // accounting for the height of the element when it is sticky at the top.(the right side element passes below it so the even fires so root margin is required)

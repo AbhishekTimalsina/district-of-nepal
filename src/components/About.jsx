@@ -1,19 +1,14 @@
 import React, { useEffect, useRef, useState } from "react";
 import useObserve from "react-intersectionobserver-wrapper";
-import "./About.css";
+import useDeviceWidth from "../hooks/useDeviceWidth";
 import { useProvinceActions } from "../store/Store";
+import "./About.css";
 
 function About() {
-  const [innerWidth, setInnerWidth] = useState(window.innerWidth);
   let ref = useRef(null);
   let { updateProvinceId } = useProvinceActions();
   let fullMapObserver = useObserve(ref);
-
-  useEffect(() => {
-    window.addEventListener("resize", function () {
-      setInnerWidth(window.innerWidth);
-    });
-  }, []);
+  let innerWidth = useDeviceWidth();
 
   let thresHoldValue = 0.4;
   if (innerWidth <= 650) {
@@ -31,7 +26,7 @@ function About() {
       },
       { threshold: thresHoldValue }
     );
-  }, []);
+  }, [innerWidth]);
   return (
     <div ref={ref} className="about-section">
       <h2>Districts of Nepal</h2>
